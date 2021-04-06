@@ -1,1 +1,1 @@
-# ansible playbooks repo for vRA consumption
+# ansible playbooks repo for vRA IaaS provisioning
